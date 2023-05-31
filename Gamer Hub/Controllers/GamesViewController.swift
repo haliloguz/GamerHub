@@ -175,8 +175,8 @@ extension GamesViewController: UICollectionViewDelegate {
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         let detailVc = DetailViewController()
-        
-        navigationController?.pushViewController(DetailViewController(), animated: true)
+        detailVc.game = allGames[indexPath.item]
+        navigationController?.pushViewController(detailVc, animated: true)
     }
     
     

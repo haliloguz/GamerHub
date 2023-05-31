@@ -16,11 +16,12 @@ class DetailViewController: UIViewController {
         
         view.backgroundColor = .purple
         // Do any additional setup after loading the view.
-        
+        navigationItem.title = game.name
     }
     
     override func viewWillAppear(_ animated: Bool) {
         navigationController?.navigationBar.isHidden = false
+      
     }
     
     
