@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0EA94914-F9B4-46AF-BCB8-A62834102875"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A056B0C8-7E1A-475B-993B-47F644DA4755"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gamer Hub/Controllers/GamesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A056B0C8-7E1A-475B-993B-47F644DA4755 - fa82af0a76059c8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Gamer_Hub.GameResponse, Swift.Error&gt;) -&gt; () in Gamer_Hub.GamesViewController.fetch() -&gt; ()"
+                  moduleName = "Gamer Hub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haliloguz/Desktop/Dev/Gamer%20Hub/Gamer%20Hub/Controllers/GamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "A056B0C8-7E1A-475B-993B-47F644DA4755 - fa82af0a76059cb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Gamer_Hub.GameResponse, Swift.Error&gt;) -&gt; () in Gamer_Hub.GamesViewController.fetch() -&gt; ()"
+                  moduleName = "Gamer Hub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haliloguz/Desktop/Dev/Gamer%20Hub/Gamer%20Hub/Controllers/GamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "A056B0C8-7E1A-475B-993B-47F644DA4755 - fa82af0a76059c2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Gamer_Hub.GameResponse, Swift.Error&gt;) -&gt; () in Gamer_Hub.GamesViewController.fetch() -&gt; ()"
+                  moduleName = "Gamer Hub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haliloguz/Desktop/Dev/Gamer%20Hub/Gamer%20Hub/Controllers/GamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
